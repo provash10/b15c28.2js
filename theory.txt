@@ -1,0 +1,33 @@
+#Salary wise Bonus
+
+Basic Salary 13000  Bonus 2000
+Basic Salary 18000  Bonus 3000
+Basic Salary 25000  Bonus 5000
+Basic Salary 30000  Bonus 6000
+Basic Salary 40000  Bonus 7000
+Basic Salary 50000  Bonus 8000
+Basic Salary 60000  Bonus 10000
+
+
+#Total Salary wise Picnic fee
+
+Total Salary greater than 15000 => fee 0500
+Total Salary greater than 20000 => fee 0600
+Total Salary greater than 25000 => fee 0700
+Total Salary greater than 30000 => fee 0800
+Total Salary greater than 40000 => fee 1000
+Total Salary greater than 50000 => fee 1200
+Total Salary greater than 60000 => fee 1500
+
+Total Salary less than    15000 => fee 100
+
+
+salary of rahim 25000 tk. now get the fee 
+for rahim to join picnic. 
+
+let basicSalary;
+let bonus;
+let totalSalary;
+
+
+
